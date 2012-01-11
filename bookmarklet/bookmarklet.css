@@ -1,0 +1,16 @@
+div#buffer_add_tweet_container {
+	position: fixed !important;
+	width: 100%;
+	height: 100%;
+	z-index: 99999999999;
+}
+
+iframe#buffer_iframe {
+	border: none;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	z-index: 99999999999;
+	top: 0;
+	left: 0;
+}

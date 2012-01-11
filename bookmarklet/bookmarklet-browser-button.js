@@ -1,0 +1,1 @@
+javascript:(function(){var a=document.getElementsByTagName('head')[0],b=document.createElement('script');b.type='text/javascript';b.src='http://dcancel.github.com/bookmarklet/bookmarklet.js?'+Math.floor(Math.random()*99999);a.appendChild(b);})();void 0
